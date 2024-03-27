@@ -71,4 +71,5 @@ Sebelum Anda memulai, pastikan Anda telah menginstal PHP, Composer, dan Laravel 
 - **Daftar sebagai Admin/User**: Buka `http://localhost:8000/register` untuk membuat akun baru.
 - **Login**: Buka `http://localhost:8000/login` untuk masuk ke dalam sistem.
 - **Dashboard Admin**: Setelah login sebagai admin, Anda dapat mengakses dashboard admin untuk mengelola produk.
+- **Output**: output dari aplikasi berada di file output.pdf.
 
